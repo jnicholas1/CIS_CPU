@@ -1,0 +1,2 @@
+1. Make a CISC CPU
+2. There are no other steps
