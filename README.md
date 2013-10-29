@@ -10,3 +10,4 @@ For example:
 	Fibonacci or hailstone sequence
 
 Work in pairs.
+Split work up into separate circuits.
