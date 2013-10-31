@@ -11,3 +11,9 @@ For example:
 
 Work in pairs.
 Split work up into separate circuits.
+
+Steps
+-----
+1. Decide on an instruction set, and document it.
+2. Split up into separate components (i.e., the decoder, the ALU, bus unit, program control), and implement.
+3. Test with a program.
