@@ -15,7 +15,10 @@ RAM
 ----
 First 32 addresses correspond to ALU, PC ops
 
+Instruction Set
+---------------
 Memory mapped to operations
+
 000 -> Constant 0
 001 -> Constant 1
 010 -> ADD[0]
